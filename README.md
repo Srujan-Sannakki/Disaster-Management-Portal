@@ -75,8 +75,8 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/your-username/disaster-management-portal.git](https://github.com/your-username/disaster-management-portal.git)
-   cd disaster-management-portal
+git clone [https://github.com/your-username/disaster-management-portal.git](https://github.com/your-username/disaster-management-portal.git)
+cd disaster-management-portal
 ```
 
 2. **Install dependencies:**
